@@ -16,4 +16,5 @@ while again.lower() == "y":
 
     again = input("Do you want to Calculate again?y/n:")
     if again == "n":
+        print('Have a Great Day');
         break
